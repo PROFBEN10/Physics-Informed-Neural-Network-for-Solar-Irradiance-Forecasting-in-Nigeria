@@ -2,7 +2,6 @@
 Embedding thermodynamic laws into a neural network's loss function to produce accurate and physically consistent solar irradiance forecasts across Nigeria's five climatic zones.
 
 
-# ☀️ Physics-Informed Neural Network for Solar Irradiance Forecasting in Nigeria
 
 <div align="center">
 
@@ -20,9 +19,6 @@ Embedding thermodynamic laws into a neural network's loss function to produce ac
 
 ---
 
-> **Embedding thermodynamic laws into a neural network's loss function to produce accurate and physically consistent solar irradiance forecasts across Nigeria's five climatic zones.**
-
----
 
 ## 📌 Table of Contents
 
